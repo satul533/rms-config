@@ -1,5 +1,3 @@
-server:
-  port: 9091
 spring:
   application:
     name: USER-CONFIG-SERVICE
